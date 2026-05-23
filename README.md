@@ -1,2 +1,35 @@
-# isi-2008-inteligencia-artificial
-Inteligencia Artificial
+<!-- AUTOGENERADO desde apuntes-frre/.github (data/isi.toml).
+     No editar a mano: los cambios se sobrescriben en el próximo run de CI. -->
+# 📚 Inteligencia Artificial
+
+> Materia de **Ingeniería en Sistemas de Información** — Plan 2008.
+
+## 📋 Datos
+
+- 🎯 **Nivel:** 5
+- 🧩 **Área:** Sistemas Inteligentes
+- 🗂️ **Bloque:** Tecnologías Aplicadas
+- ⏱️ **Horas semanales:** 3
+
+## 🔗 Correlativas
+
+**Para cursar — cursadas:** Investigación Operativa, Simulación
+**Para cursar — aprobadas:** Probabilidades y Estadísticas, Diseño de Sistemas, Matemática Superior
+**Para rendir — aprobadas:** Investigación Operativa, Simulación
+
+## 📂 Estructura
+
+- `notes/<año>/teoria/` — apuntes teóricos.
+- `notes/<año>/practica/` — ejercicios y trabajos prácticos.
+- `examples/` — ejemplos de código (opcional, solo si hay contenido).
+- `study-guides/` — guías de estudio para parciales y finales.
+- `resources/common/` — bibliografía y enlaces compartidos entre años.
+
+## 🤝 Contribuir
+
+Las contribuciones son bienvenidas. Convenciones generales en
+[apuntes-frre/.github](https://github.com/apuntes-frre/.github).
+
+## 📜 Licencia
+
+MIT.
